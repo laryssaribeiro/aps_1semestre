@@ -1,9 +1,5 @@
 <h1 align="center">APS - Uso racional da água</h1>
-Atividade de conclusão do 1º semestre do curso de sistemas de informações.
 
-<p align="center">
-Atividade de conclusão do meu 1º semestre de Sistemas de Informação.
-</p>
 <br>
 
 ## 🚀 Tecnologias
