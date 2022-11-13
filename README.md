@@ -1,4 +1,4 @@
-<h1 align="center">aps_1semestre</h1>
+<h1 align="center">APS - Uso racional da água</h1>
 Atividade de conclusão do 1º semestre do curso de sistemas de informações.
 
 <p align="center">
